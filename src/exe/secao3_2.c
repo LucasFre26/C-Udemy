@@ -1,3 +1,5 @@
+/* Faca um programa que leia 3 numeros e retorne a soma entre eles */
+
 #include <stdio.h>
 
 int main(void) {
