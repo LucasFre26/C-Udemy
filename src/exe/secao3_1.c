@@ -1,3 +1,5 @@
+/* Faca um programa que leia um numero e retorne esse numero */
+
 #include <stdio.h>
 
 int main(void) {
