@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// O compilador (GCC) faz a leitura do codigo fonte, verifica as bibliotecas importadas e gera um executavel para o SO que está executando
+
 int main(void) {
 
   // Declaração e inicialização de variavel
