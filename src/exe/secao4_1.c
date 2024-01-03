@@ -9,7 +9,7 @@ int main(void) {
   printf("Entre com o seu primeiro numero: ");
   scanf("%d", &a); 
   a = a * a;
-  
+
   printf("Entre com o seu segundo numero: ");
   scanf("%d", &b); 
   b = b * b;
@@ -18,7 +18,7 @@ int main(void) {
   scanf("%d", &c); 
   c = c * c;
 
-  printf("O quadrado dos valores digitados é: %d, %d, %d", a, b, c);
+  printf("A soma dos quadrado dos valores digitados e: %d + %d + %d = %d", a, b, c, a + b + c);
 
   return 0;
 }
